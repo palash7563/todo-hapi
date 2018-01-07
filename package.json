@@ -1,0 +1,28 @@
+{
+  "name": "todo-hapi",
+  "version": "1.0.0",
+  "description": "the todo app ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/palash7563/todo-hapi.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "Palash Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palash7563/todo-hapi/issues"
+  },
+  "homepage": "https://github.com/palash7563/todo-hapi#readme",
+  "dependencies": {
+    "eslint": "^4.15.0",
+    "hapi": "^17.2.0",
+    "joi": "^13.1.0",
+    "nodemon": "^1.14.8"
+  }
+}
